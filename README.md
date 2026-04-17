@@ -7,7 +7,7 @@ This project is a simple Expense Tracker application designed to manage daily ex
 
 ## 🎯 Objectives
 - Track daily expenses  
-- Maintain financial records  
+- Maintain financial records 
 - Analyze spending patterns  
 
 ---
