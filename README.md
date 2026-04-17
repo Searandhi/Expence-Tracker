@@ -1,18 +1,18 @@
-# Expense Tracker
+# 💰 Expense Tracker
 
-## Overview
+## 🚀 Overview
 This project is a simple Expense Tracker application designed to manage daily expenses efficiently. It helps users record, track, and analyze their spending habits.
 
 ---
 
-## Objectives
+## 🎯 Objectives
 - Track daily expenses  
 - Maintain financial records  
 - Analyze spending patterns  
 
 ---
 
-## Features
+## ✨ Features
 - Add expenses  
 - Edit and update records  
 - Delete expenses  
@@ -20,21 +20,21 @@ This project is a simple Expense Tracker application designed to manage daily ex
 
 ---
 
-## Key Concepts
+## 🧠 Key Concepts
 - Expense Management  
 - CRUD Operations  
 - Data Handling  
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 - HTML  
 - CSS  
 - JavaScript  
 
 ---
 
-## Project Workflow
+## 🔄 Project Workflow
 1. Add expense details  
 2. Store and manage data  
 3. Display expenses  
@@ -42,19 +42,19 @@ This project is a simple Expense Tracker application designed to manage daily ex
 
 ---
 
-## Results
+## 📈 Results
 - Tracks daily expenses effectively  
 - Improves financial awareness  
 
 ---
 
-## Real-World Impact
+## 🌍 Real-World Impact
 - Helps users manage personal finances  
 - Encourages better budgeting habits  
 
 ---
 
-## How to Run
+## 🛠️ How to Run
 
 ```bash
 git clone https://github.com/Searandhi/Expence-Tracker.git
